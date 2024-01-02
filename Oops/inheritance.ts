@@ -42,4 +42,3 @@ class Person extends Employee1 {
 const perObj = new Person("sai", 10);
 perObj.person();
 
-//multiLevel inheritancs

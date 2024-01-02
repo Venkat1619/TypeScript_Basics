@@ -120,7 +120,7 @@
     "experimentalDecorators": true,
     "composite": true
   },
-  "files": ["typeAlias.ts","Oops/class.ts","Oops/overriding.ts",],
+  "files": ["typeAlias.ts","Oops/class.ts","Oops/overriding.ts","dataTypes.ts"],
 
   "exclude": [
     "node_modules",

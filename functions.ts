@@ -4,7 +4,7 @@ function add(a: number, b: number) {
 const result = add(10, 20);
 console.log(result);
 
-// same with anoter way
+// same with anoter way arrow function
 const add1 = (a: number, b: number) => {
   return a + b;
 };
@@ -21,3 +21,9 @@ const addition = (a: number, b?: number) => {
 };
 const res = addition(10);
 console.log(res);
+
+// Parameters :: The variables declared between the parenthesis of a function declaration.
+// Arguments :: The values passed to a function when the function is called/invoked which become the values of the declared parameters.
+ 
+// function parameters(a,b){}   //parameters while declaring
+// parameters(1,2) //arguments while calling
